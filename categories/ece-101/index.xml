@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ECE-101 - Category - Engineting Notes</title>
+        <link>https://gndecnotes.github.io/categories/ece-101/</link>
+        <description>ECE-101 - Category - Engineting Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Dec 2018 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://gndecnotes.github.io/categories/ece-101/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://gndecnotes.github.io/posts/test/</link>
+    <pubDate>Sat, 01 Dec 2018 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/posts/test/</guid>
+    <description><![CDATA[<p>ECE-101</p>]]></description>
+</item></channel>
+</rss>
