@@ -4,11 +4,11 @@
         <link>https://gndecnotes.github.io/categories/markdown/</link>
         <description>Markdown - Category - Engineting Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://gndecnotes.github.io/categories/markdown/" rel="self" type="application/rss+xml" /><item>
-    <title>Basic Markdown Syntax</title>
-    <link>https://gndecnotes.github.io/posts/basic-markdown-syntax/</link>
+    <title>this is the main test</title>
+    <link>https://gndecnotes.github.io/posts/test-1/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.github.io/posts/basic-markdown-syntax/</guid>
+    <guid>https://gndecnotes.github.io/posts/test-1/</guid>
     <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item></channel>
 </rss>
