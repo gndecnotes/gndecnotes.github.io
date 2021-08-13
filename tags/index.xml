@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Engineting Notes</title>
+        <title>Tags - Tag - Engineering Notes</title>
         <link>https://gndecnotes.github.io/tags/</link>
-        <description>Tags - Tag - Engineting Notes</description>
+        <description>Tags - Tag - Engineering Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://gndecnotes.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>HTML</title>
     <link>https://gndecnotes.github.io/tags/html/</link>
