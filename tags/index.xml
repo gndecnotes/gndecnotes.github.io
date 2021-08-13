@@ -3,21 +3,7 @@
         <title>Tags - Tag - Engineering Notes</title>
         <link>https://gndecnotes.github.io/tags/</link>
         <description>Tags - Tag - Engineering Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://gndecnotes.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>HTML</title>
-    <link>https://gndecnotes.github.io/tags/html/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://gndecnotes.github.io/tags/html/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Markdown</title>
-    <link>https://gndecnotes.github.io/tags/markdown/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://gndecnotes.github.io/tags/markdown/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>BEE</title>
     <link>https://gndecnotes.github.io/tags/bee/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
@@ -25,11 +11,25 @@
     <guid>https://gndecnotes.github.io/tags/bee/</guid>
     <description><![CDATA[]]></description>
 </item><item>
+    <title>ED</title>
+    <link>https://gndecnotes.github.io/tags/ed/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/tags/ed/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>ESC-101</title>
     <link>https://gndecnotes.github.io/tags/esc-101/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://gndecnotes.github.io/tags/esc-101/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>ESC-103</title>
+    <link>https://gndecnotes.github.io/tags/esc-103/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/tags/esc-103/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Semester 1 and 2</title>

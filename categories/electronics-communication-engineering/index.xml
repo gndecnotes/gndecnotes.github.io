@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Semester 1 and 2 - Category - Engineering Notes</title>
-        <link>https://gndecnotes.github.io/categories/semester-1-and-2/</link>
-        <description>Semester 1 and 2 - Category - Engineering Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/categories/semester-1-and-2/" rel="self" type="application/rss+xml" /><item>
+        <title>Electronics &amp; Communication Engineering - Category - Engineering Notes</title>
+        <link>https://gndecnotes.github.io/categories/electronics-communication-engineering/</link>
+        <description>Electronics &amp; Communication Engineering - Category - Engineering Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/categories/electronics-communication-engineering/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Electrical Engineering </title>
     <link>https://gndecnotes.github.io/posts/bee/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>

@@ -2,18 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://gndecnotes.github.io/posts/bee/</loc></url><url>
-            <loc>https://gndecnotes.github.io/posts/test-1/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/categories/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/tags/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/posts/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/tags/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
             <loc>https://gndecnotes.github.io/about/</loc></url><url>
+            <loc>https://gndecnotes.github.io/posts/bee/</loc></url><url>
             <loc>https://gndecnotes.github.io/tags/bee/</loc></url><url>
-            <loc>https://gndecnotes.github.io/categories/electronics-and-communication-engineering/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/civil-engineering/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/computer-science-engineering/</loc></url><url>
+            <loc>https://gndecnotes.github.io/tags/ed/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/electrical-engineering/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/electronics-communication-engineering/</loc></url><url>
+            <loc>https://gndecnotes.github.io/posts/ed/</loc></url><url>
+            <loc>https://gndecnotes.github.io/</loc></url><url>
             <loc>https://gndecnotes.github.io/tags/esc-101/</loc></url><url>
+            <loc>https://gndecnotes.github.io/tags/esc-103/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/information-technology/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/mechanical-engineering/</loc></url><url>
+            <loc>https://gndecnotes.github.io/posts/</loc></url><url>
             <loc>https://gndecnotes.github.io/tags/semester-1-and-2/</loc></url><url>
-            <loc>https://gndecnotes.github.io/categories/semester-1-and-2/</loc></url></urlset>
+            <loc>https://gndecnotes.github.io/categories/semester-1-and-2/</loc></url><url>
+            <loc>https://gndecnotes.github.io/tags/</loc></url></urlset>

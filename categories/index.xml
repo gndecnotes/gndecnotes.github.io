@@ -3,19 +3,47 @@
         <title>Categories - Category - Engineering Notes</title>
         <link>https://gndecnotes.github.io/categories/</link>
         <description>Categories - Category - Engineering Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://gndecnotes.github.io/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>Markdown</title>
-    <link>https://gndecnotes.github.io/categories/markdown/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://gndecnotes.github.io/categories/markdown/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Electronics and Communication Engineering</title>
-    <link>https://gndecnotes.github.io/categories/electronics-and-communication-engineering/</link>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Civil Engineering</title>
+    <link>https://gndecnotes.github.io/categories/civil-engineering/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.github.io/categories/electronics-and-communication-engineering/</guid>
+    <guid>https://gndecnotes.github.io/categories/civil-engineering/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Computer Science &amp; Engineering</title>
+    <link>https://gndecnotes.github.io/categories/computer-science-engineering/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/categories/computer-science-engineering/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Electrical Engineering</title>
+    <link>https://gndecnotes.github.io/categories/electrical-engineering/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/categories/electrical-engineering/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Electronics &amp; Communication Engineering</title>
+    <link>https://gndecnotes.github.io/categories/electronics-communication-engineering/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/categories/electronics-communication-engineering/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Information Technology</title>
+    <link>https://gndecnotes.github.io/categories/information-technology/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/categories/information-technology/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Mechanical Engineering</title>
+    <link>https://gndecnotes.github.io/categories/mechanical-engineering/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/categories/mechanical-engineering/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Semester 1 and 2</title>
