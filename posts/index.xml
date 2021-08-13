@@ -4,18 +4,18 @@
         <link>https://gndecnotes.github.io/posts/</link>
         <description>All Notes | Engineering Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://gndecnotes.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Basic Elecrtical Engineering </title>
+    <link>https://gndecnotes.github.io/posts/bee/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/posts/bee/</guid>
+    <description><![CDATA[<p>ESC-101 | BEE | Semester 1 and 2</p>]]></description>
+</item><item>
     <title>this is the main test</title>
     <link>https://gndecnotes.github.io/posts/test-1/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://gndecnotes.github.io/posts/test-1/</guid>
     <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item><item>
-    <title>Test</title>
-    <link>https://gndecnotes.github.io/posts/test/</link>
-    <pubDate>Sat, 01 Dec 2018 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://gndecnotes.github.io/posts/test/</guid>
-    <description><![CDATA[<p>ECE-101</p>]]></description>
 </item></channel>
 </rss>

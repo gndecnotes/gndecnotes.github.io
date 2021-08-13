@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://gndecnotes.github.io/posts/bee/</loc></url><url>
             <loc>https://gndecnotes.github.io/posts/test-1/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/posts/test/</loc><lastmod>2018-12-01T21:57:40&#43;08:00</lastmod></url><url>
             <loc>https://gndecnotes.github.io/categories/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
             <loc>https://gndecnotes.github.io/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
             <loc>https://gndecnotes.github.io/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
@@ -11,8 +11,9 @@
             <loc>https://gndecnotes.github.io/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
             <loc>https://gndecnotes.github.io/posts/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
             <loc>https://gndecnotes.github.io/tags/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/categories/123/</loc><lastmod>2018-12-01T21:57:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/tags/ece-101/</loc><lastmod>2018-12-01T21:57:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/categories/ece-101/</loc><lastmod>2018-12-01T21:57:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/tags/tester/</loc><lastmod>2018-12-01T21:57:40&#43;08:00</lastmod></url><url>
-            <loc>https://gndecnotes.github.io/about/</loc></url></urlset>
+            <loc>https://gndecnotes.github.io/about/</loc></url><url>
+            <loc>https://gndecnotes.github.io/tags/bee/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/electronics-and-communication-engineering/</loc></url><url>
+            <loc>https://gndecnotes.github.io/tags/esc-101/</loc></url><url>
+            <loc>https://gndecnotes.github.io/tags/semester-1-and-2/</loc></url><url>
+            <loc>https://gndecnotes.github.io/categories/semester-1-and-2/</loc></url></urlset>
