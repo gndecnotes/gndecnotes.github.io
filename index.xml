@@ -13,6 +13,13 @@
     <guid>https://gndecnotes.github.io/posts/bee/</guid>
     <description><![CDATA[<p>ESC-101 | BEE | Semester 1 and 2</p>]]></description>
 </item><item>
+    <title>Chemistry</title>
+    <link>https://gndecnotes.github.io/posts/chemistry/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/posts/chemistry/</guid>
+    <description><![CDATA[<p>BSC-105 | Chemistry | Semester 1 and 2</p>]]></description>
+</item><item>
     <title>Engineering Graphics and Design</title>
     <link>https://gndecnotes.github.io/posts/ed/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
@@ -20,12 +27,33 @@
     <guid>https://gndecnotes.github.io/posts/ed/</guid>
     <description><![CDATA[<p>ESC-103 | ED | Semester 1 and 2</p>]]></description>
 </item><item>
+    <title>English</title>
+    <link>https://gndecnotes.github.io/posts/english/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/posts/english/</guid>
+    <description><![CDATA[<p>HSMC-101 | English | Semester 1 and 2</p>]]></description>
+</item><item>
+    <title>Manufacturing Practices</title>
+    <link>https://gndecnotes.github.io/posts/mp/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/posts/mp/</guid>
+    <description><![CDATA[<p>ESC-106 | MP | Semester 1 and 2</p>]]></description>
+</item><item>
     <title>Mathematics-I</title>
     <link>https://gndecnotes.github.io/posts/maths-1/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://gndecnotes.github.io/posts/maths-1/</guid>
     <description><![CDATA[<p>BSC-103 | Maths | Semester 1 and 2</p>]]></description>
+</item><item>
+    <title>Mathematics-II</title>
+    <link>https://gndecnotes.github.io/posts/maths-2/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/posts/maths-2/</guid>
+    <description><![CDATA[<p>BSC-104 | Maths 2 | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Physics</title>
     <link>https://gndecnotes.github.io/posts/physics/</link>
@@ -40,5 +68,12 @@
     <author>Author</author>
     <guid>https://gndecnotes.github.io/posts/peem/</guid>
     <description><![CDATA[<p>HSMC-103 | Peem | Semester 1 and 2</p>]]></description>
+</item><item>
+    <title>Programming for Problem Solving</title>
+    <link>https://gndecnotes.github.io/posts/pps/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.github.io/posts/pps/</guid>
+    <description><![CDATA[<p>ESC-104 | PPS | Semester 1 and 2</p>]]></description>
 </item></channel>
 </rss>
