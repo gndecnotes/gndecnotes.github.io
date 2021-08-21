@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>ESC-106 - Tag - Engineering Notes</title>
-        <link>https://gndecnotes.github.io/tags/esc-106/</link>
+        <link>https://gndecnotes.com/tags/esc-106/</link>
         <description>ESC-106 - Tag - Engineering Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/tags/esc-106/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/esc-106/" rel="self" type="application/rss+xml" /><item>
     <title>Manufacturing Practices</title>
-    <link>https://gndecnotes.github.io/posts/mp/</link>
+    <link>https://gndecnotes.com/posts/mp/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.github.io/posts/mp/</guid>
+    <guid>https://gndecnotes.com/posts/mp/</guid>
     <description><![CDATA[<p>ESC-106 | MP | Semester 1 and 2</p>]]></description>
 </item></channel>
 </rss>
