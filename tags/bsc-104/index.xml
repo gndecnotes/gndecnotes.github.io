@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>BSC-104 - Tag - Engineering Notes</title>
+        <title>BSC-104 - Tag - Gndec Notes</title>
         <link>https://gndecnotes.com/tags/bsc-104/</link>
-        <description>BSC-104 - Tag - Engineering Notes</description>
+        <description>BSC-104 - Tag - Gndec Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/bsc-104/" rel="self" type="application/rss+xml" /><item>
     <title>Mathematics-II</title>
     <link>https://gndecnotes.com/posts/maths-2/</link>

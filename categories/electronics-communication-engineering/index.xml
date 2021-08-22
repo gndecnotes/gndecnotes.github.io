@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Electronics &amp; Communication Engineering - Category - Engineering Notes</title>
+        <title>Electronics &amp; Communication Engineering - Category - Gndec Notes</title>
         <link>https://gndecnotes.com/categories/electronics-communication-engineering/</link>
-        <description>Electronics &amp; Communication Engineering - Category - Engineering Notes</description>
+        <description>Electronics &amp; Communication Engineering - Category - Gndec Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/categories/electronics-communication-engineering/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Electrical Engineering </title>
     <link>https://gndecnotes.com/posts/bee/</link>

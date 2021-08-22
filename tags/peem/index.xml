@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>PEEM - Tag - Engineering Notes</title>
+        <title>PEEM - Tag - Gndec Notes</title>
         <link>https://gndecnotes.com/tags/peem/</link>
-        <description>PEEM - Tag - Engineering Notes</description>
+        <description>PEEM - Tag - Gndec Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/peem/" rel="self" type="application/rss+xml" /><item>
     <title>Principles of Engineering Economics and Management</title>
     <link>https://gndecnotes.com/posts/peem/</link>

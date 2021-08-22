@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Notes - Engineering Notes</title>
+        <title>All Notes - Gndec Notes</title>
         <link>https://gndecnotes.com/posts/</link>
-        <description>All Notes | Engineering Notes</description>
+        <description>All Notes | Gndec Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Electrical Engineering </title>
     <link>https://gndecnotes.com/posts/bee/</link>

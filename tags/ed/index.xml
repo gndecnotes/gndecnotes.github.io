@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>ED - Tag - Engineering Notes</title>
+        <title>ED - Tag - Gndec Notes</title>
         <link>https://gndecnotes.com/tags/ed/</link>
-        <description>ED - Tag - Engineering Notes</description>
+        <description>ED - Tag - Gndec Notes</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/ed/" rel="self" type="application/rss+xml" /><item>
     <title>Engineering Graphics and Design</title>
     <link>https://gndecnotes.com/posts/ed/</link>
