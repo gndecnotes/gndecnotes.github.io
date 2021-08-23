@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Gndec Notes</title>
+    <link>https://gndecnotes.com/blogs/</link>
+    <description>Recent content in Blogs on Gndec Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://gndecnotes.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What AI Means for Us: The Future of Technology and Humanity</title>
+      <link>https://gndecnotes.com/blogs/what-ai-means-for-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gndecnotes.com/blogs/what-ai-means-for-us/</guid>
+      <description>What is AI? If you had asked me a few years ago what AI was, I would have answered that it&amp;rsquo;s software that tells computers to do certain things. In the past, AI has been mostly done with the objective of computer systems performing specific tasks faster and better than humans. The first automated financial trading system was developed around 1990 and later real time trading on the stock market came into being in 1997.</description>
+    </item>
+    
+    <item>
+      <title>Why the Future of Electric Cars Looks Bright</title>
+      <link>https://gndecnotes.com/blogs/future-of-electric-cars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gndecnotes.com/blogs/future-of-electric-cars/</guid>
+      <description>What are Electric Cars? They are a car that does not use petrol as a fuel and instead relies on electricity. This can be generated from a variety of different sources, such as solar panels, wind farms or other sources of energy that we produce on site. Electric cars offer the advantage of the same level of efficiency and fuel efficiency as petrol or diesel cars. The only difference is the fact that there is no petrol or diesel involved.</description>
+    </item>
+    
+  </channel>
+</rss>
