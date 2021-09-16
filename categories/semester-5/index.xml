@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Semester 5 - Category - Gndec Notes</title>
+        <link>https://gndecnotes.com/categories/semester-5/</link>
+        <description>Semester 5 - Category - Gndec Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/categories/semester-5/" rel="self" type="application/rss+xml" /><item>
+    <title>Theory Of Computation</title>
+    <link>https://gndecnotes.com/posts/toc/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://gndecnotes.com/posts/toc/</guid>
+    <description><![CDATA[<p>IT-14503 | TOC | Semester 5</p>]]></description>
+</item></channel>
+</rss>
