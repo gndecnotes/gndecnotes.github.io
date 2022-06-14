@@ -1,77 +1,77 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Information Technology - Category - Gndec Notes</title>
-        <link>https://gndecnotes.com/categories/information-technology/</link>
-        <description>Information Technology - Category - Gndec Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/categories/information-technology/" rel="self" type="application/rss+xml" /><item>
+        <title>Information Technology - Category - Engineering Notes</title>
+        <link>https://gndecnotes.github.io/categories/information-technology/</link>
+        <description>Information Technology - Category - Engineering Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/categories/information-technology/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Electrical Engineering </title>
-    <link>https://gndecnotes.com/posts/bee/</link>
+    <link>https://gndecnotes.github.io/posts/bee/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/bee/</guid>
+    <guid>https://gndecnotes.github.io/posts/bee/</guid>
     <description><![CDATA[<p>ESC-101 | BEE | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Chemistry</title>
-    <link>https://gndecnotes.com/posts/chemistry/</link>
+    <link>https://gndecnotes.github.io/posts/chemistry/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/chemistry/</guid>
+    <guid>https://gndecnotes.github.io/posts/chemistry/</guid>
     <description><![CDATA[<p>BSC-105 | Chemistry | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Engineering Graphics and Design</title>
-    <link>https://gndecnotes.com/posts/ed/</link>
+    <link>https://gndecnotes.github.io/posts/ed/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/ed/</guid>
+    <guid>https://gndecnotes.github.io/posts/ed/</guid>
     <description><![CDATA[<p>ESC-103 | ED | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>English</title>
-    <link>https://gndecnotes.com/posts/english/</link>
+    <link>https://gndecnotes.github.io/posts/english/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/english/</guid>
+    <guid>https://gndecnotes.github.io/posts/english/</guid>
     <description><![CDATA[<p>HSMC-101 | English | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Manufacturing Practices</title>
-    <link>https://gndecnotes.com/posts/mp/</link>
+    <link>https://gndecnotes.github.io/posts/mp/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/mp/</guid>
+    <guid>https://gndecnotes.github.io/posts/mp/</guid>
     <description><![CDATA[<p>ESC-106 | MP | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Mathematics-I</title>
-    <link>https://gndecnotes.com/posts/maths-1/</link>
+    <link>https://gndecnotes.github.io/posts/maths-1/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/maths-1/</guid>
+    <guid>https://gndecnotes.github.io/posts/maths-1/</guid>
     <description><![CDATA[<p>BSC-103 | Maths | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Mathematics-II</title>
-    <link>https://gndecnotes.com/posts/maths-2/</link>
+    <link>https://gndecnotes.github.io/posts/maths-2/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/maths-2/</guid>
+    <guid>https://gndecnotes.github.io/posts/maths-2/</guid>
     <description><![CDATA[<p>BSC-104 | Maths 2 | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Physics</title>
-    <link>https://gndecnotes.com/posts/physics/</link>
+    <link>https://gndecnotes.github.io/posts/physics/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/physics/</guid>
+    <guid>https://gndecnotes.github.io/posts/physics/</guid>
     <description><![CDATA[<p>BSC-101 | Physics | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Principles of Engineering Economics and Management</title>
-    <link>https://gndecnotes.com/posts/peem/</link>
+    <link>https://gndecnotes.github.io/posts/peem/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/peem/</guid>
+    <guid>https://gndecnotes.github.io/posts/peem/</guid>
     <description><![CDATA[<p>HSMC-103 | Peem | Semester 1 and 2</p>]]></description>
 </item><item>
     <title>Programming for Problem Solving</title>
-    <link>https://gndecnotes.com/posts/pps/</link>
+    <link>https://gndecnotes.github.io/posts/pps/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/pps/</guid>
+    <guid>https://gndecnotes.github.io/posts/pps/</guid>
     <description><![CDATA[<p>ESC-104 | PPS | Semester 1 and 2</p>]]></description>
 </item></channel>
 </rss>

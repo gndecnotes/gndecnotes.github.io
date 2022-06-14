@@ -1,77 +1,77 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Gndec Notes</title>
-        <link>https://gndecnotes.com/tags/</link>
-        <description>Tags - Tag - Gndec Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/" rel="self" type="application/rss+xml" /><item>
+        <title>Tags - Tag - Engineering Notes</title>
+        <link>https://gndecnotes.github.io/tags/</link>
+        <description>Tags - Tag - Engineering Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>BEE</title>
-    <link>https://gndecnotes.com/tags/bee/</link>
+    <link>https://gndecnotes.github.io/tags/bee/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/bee/</guid>
+    <guid>https://gndecnotes.github.io/tags/bee/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>BSC-101</title>
-    <link>https://gndecnotes.com/tags/bsc-101/</link>
+    <link>https://gndecnotes.github.io/tags/bsc-101/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/bsc-101/</guid>
+    <guid>https://gndecnotes.github.io/tags/bsc-101/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>BSC-103</title>
-    <link>https://gndecnotes.com/tags/bsc-103/</link>
+    <link>https://gndecnotes.github.io/tags/bsc-103/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/bsc-103/</guid>
+    <guid>https://gndecnotes.github.io/tags/bsc-103/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>BSC-104</title>
-    <link>https://gndecnotes.com/tags/bsc-104/</link>
+    <link>https://gndecnotes.github.io/tags/bsc-104/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/bsc-104/</guid>
+    <guid>https://gndecnotes.github.io/tags/bsc-104/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>BSC-105</title>
-    <link>https://gndecnotes.com/tags/bsc-105/</link>
+    <link>https://gndecnotes.github.io/tags/bsc-105/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/bsc-105/</guid>
+    <guid>https://gndecnotes.github.io/tags/bsc-105/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Chemistry</title>
-    <link>https://gndecnotes.com/tags/chemistry/</link>
+    <link>https://gndecnotes.github.io/tags/chemistry/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/chemistry/</guid>
+    <guid>https://gndecnotes.github.io/tags/chemistry/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>ED</title>
-    <link>https://gndecnotes.com/tags/ed/</link>
+    <link>https://gndecnotes.github.io/tags/ed/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/ed/</guid>
+    <guid>https://gndecnotes.github.io/tags/ed/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>English</title>
-    <link>https://gndecnotes.com/tags/english/</link>
+    <link>https://gndecnotes.github.io/tags/english/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/english/</guid>
+    <guid>https://gndecnotes.github.io/tags/english/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>ESC-101</title>
-    <link>https://gndecnotes.com/tags/esc-101/</link>
+    <link>https://gndecnotes.github.io/tags/esc-101/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/esc-101/</guid>
+    <guid>https://gndecnotes.github.io/tags/esc-101/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>ESC-103</title>
-    <link>https://gndecnotes.com/tags/esc-103/</link>
+    <link>https://gndecnotes.github.io/tags/esc-103/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/tags/esc-103/</guid>
+    <guid>https://gndecnotes.github.io/tags/esc-103/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

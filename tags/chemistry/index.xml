@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Chemistry - Tag - Gndec Notes</title>
-        <link>https://gndecnotes.com/tags/chemistry/</link>
-        <description>Chemistry - Tag - Gndec Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/chemistry/" rel="self" type="application/rss+xml" /><item>
+        <title>Chemistry - Tag - Engineering Notes</title>
+        <link>https://gndecnotes.github.io/tags/chemistry/</link>
+        <description>Chemistry - Tag - Engineering Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/tags/chemistry/" rel="self" type="application/rss+xml" /><item>
     <title>Chemistry</title>
-    <link>https://gndecnotes.com/posts/chemistry/</link>
+    <link>https://gndecnotes.github.io/posts/chemistry/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/chemistry/</guid>
+    <guid>https://gndecnotes.github.io/posts/chemistry/</guid>
     <description><![CDATA[<p>BSC-105 | Chemistry | Semester 1 and 2</p>]]></description>
 </item></channel>
 </rss>

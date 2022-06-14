@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>BSC-101 - Tag - Gndec Notes</title>
-        <link>https://gndecnotes.com/tags/bsc-101/</link>
-        <description>BSC-101 - Tag - Gndec Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/bsc-101/" rel="self" type="application/rss+xml" /><item>
+        <title>BSC-101 - Tag - Engineering Notes</title>
+        <link>https://gndecnotes.github.io/tags/bsc-101/</link>
+        <description>BSC-101 - Tag - Engineering Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/tags/bsc-101/" rel="self" type="application/rss+xml" /><item>
     <title>Physics</title>
-    <link>https://gndecnotes.com/posts/physics/</link>
+    <link>https://gndecnotes.github.io/posts/physics/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/physics/</guid>
+    <guid>https://gndecnotes.github.io/posts/physics/</guid>
     <description><![CDATA[<p>BSC-101 | Physics | Semester 1 and 2</p>]]></description>
 </item></channel>
 </rss>

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>ED - Tag - Gndec Notes</title>
-        <link>https://gndecnotes.com/tags/ed/</link>
-        <description>ED - Tag - Gndec Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/ed/" rel="self" type="application/rss+xml" /><item>
+        <title>ED - Tag - Engineering Notes</title>
+        <link>https://gndecnotes.github.io/tags/ed/</link>
+        <description>ED - Tag - Engineering Notes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/tags/ed/" rel="self" type="application/rss+xml" /><item>
     <title>Engineering Graphics and Design</title>
-    <link>https://gndecnotes.com/posts/ed/</link>
+    <link>https://gndecnotes.github.io/posts/ed/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.com/posts/ed/</guid>
+    <guid>https://gndecnotes.github.io/posts/ed/</guid>
     <description><![CDATA[<p>ESC-103 | ED | Semester 1 and 2</p>]]></description>
 </item></channel>
 </rss>
