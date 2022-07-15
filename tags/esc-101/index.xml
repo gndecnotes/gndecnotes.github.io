@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>ESC-101 - Tag - Engineering Notes</title>
-        <link>https://gndecnotes.github.io/tags/esc-101/</link>
+        <link>https://gndecnotes.com/tags/esc-101/</link>
         <description>ESC-101 - Tag - Engineering Notes</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.github.io/tags/esc-101/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://gndecnotes.com/tags/esc-101/" rel="self" type="application/rss+xml" /><item>
     <title>Basic Electrical Engineering </title>
-    <link>https://gndecnotes.github.io/posts/bee/</link>
+    <link>https://gndecnotes.com/posts/bee/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://gndecnotes.github.io/posts/bee/</guid>
+    <guid>https://gndecnotes.com/posts/bee/</guid>
     <description><![CDATA[<p>ESC-101 | BEE | Semester 1 and 2</p>]]></description>
 </item></channel>
 </rss>
